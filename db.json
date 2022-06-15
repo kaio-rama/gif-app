@@ -1,0 +1,51 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "nombre": "Bob Esponga",
+      "objeto": "Espatula"
+    },
+    {
+      "id": 2,
+      "nombre": "Tony Stark",
+      "objeto": "Casco"
+    },
+    {
+      "id": 3,
+      "nombre": "Batman",
+      "objeto": "Soga"
+    },
+    {
+      "id": 4,
+      "nombre": "Neymar",
+      "objeto": "Pelota"
+    },
+    {
+      "id": 5,
+      "nombre": "Jupiter",
+      "objeto": "Planeta"
+    },
+    {
+      "id": 6,
+      "nombre": "Eduard",
+      "objeto": "Faso"
+    },
+    {
+      "id": 7,
+      "nombre": "Macri",
+      "objeto": "Policia"
+    },
+    {
+      "id": 8,
+      "nombre": "Spinetta",
+      "objeto": "Guitarra"
+    }
+  ],
+  "dioses": [
+    {
+      "id": 1,
+      "nombre": "Marcelo",
+      "apellido": "Tinelli"
+    }
+  ]
+}
