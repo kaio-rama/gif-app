@@ -1,10 +1,10 @@
 * {
     font-family: Helvetica, Arial, sans-serif;
-    background-color: rgb(234, 234, 234);
+    background-color: #dadbd3;
   }
   
   body {
-    padding: 60px;
+    padding: 40px;
   }
   
   input {
