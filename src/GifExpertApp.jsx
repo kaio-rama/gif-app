@@ -2,9 +2,9 @@ import { useState } from "react";
 import { AddCategory, DivGrid } from "../components";
 
 export const GifExpertApp = () =>{
-    const title = "React App with Giphy API";
+    const title = "Gif searcher - using React & Giffy API";
 
-    const [categories, setCategories] = useState(['JavaScript']);
+    const [categories, setCategories] = useState(['Naruto']);
 
     const onAddCategory = (newCategory) => {
 
